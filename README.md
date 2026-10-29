@@ -1,6 +1,6 @@
 # DATA STRUCTURE & ALGORITHM
 
-## PAssignment Overview
+## Assignment Overview
 
 This assignment implements a Python program that evaluates mathematical expressions using a stack-based algorithm.
 
